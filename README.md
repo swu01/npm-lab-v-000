@@ -39,7 +39,7 @@ This directory doesn't appear to have any specs in it.
 
 This output makes sense because we don't have a `package.json` file that
 describes what the command `test` is supposed to do! To get the tests working,
-we will need to _create_ the file. How do we go about doing that? By running
+we will need to _create_ the file. How do we go about files doing that? By running
 `npm init` of course! 
 
 
